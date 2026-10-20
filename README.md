@@ -2,7 +2,7 @@
 
 Effective date: 20 October 2026
 
-This policy covers the iPhone app **Same spot: Timelapse Camera** (bundle ID `com.samespot.app`), referred to below as "the app".
+This policy covers the iPhone app **Same spot: Timelapse Camera** (bundle ID `com.samespot.timelapse`), referred to below as "the app".
 
 ## Summary
 
